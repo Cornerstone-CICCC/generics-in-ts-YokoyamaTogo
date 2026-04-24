@@ -1,0 +1,24 @@
+{
+  "name": "generics-in-ts-yokoyamatogo",
+  "version": "1.0.0",
+  "description": "Welcome to `<generics>` in TypeScript! In this exercise, you will practice your new skills in TypeScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/generics-in-ts-YokoyamaTogo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/generics-in-ts-YokoyamaTogo/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/generics-in-ts-YokoyamaTogo#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
